@@ -40,4 +40,3 @@ export default async function createCommentCollection() {
   ]);
   console.log("Comment Attributes Created");
 }
-createCommentCollection();
