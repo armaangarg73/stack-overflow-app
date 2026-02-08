@@ -66,3 +66,5 @@ export default async function createQuestionCollection()  {
     ]);
      console.log("Question indexes created");
 }
+
+
