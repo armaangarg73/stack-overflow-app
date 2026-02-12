@@ -35,3 +35,4 @@ export default async function createVoteCollection() {
   console.log("Vote Attributes Created");
 }
 
+
